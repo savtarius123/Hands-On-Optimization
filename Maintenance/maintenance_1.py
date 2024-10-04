@@ -1,4 +1,4 @@
-from pulp import *;
+from pulp import *
 
 def maintenance(
         trucks,
